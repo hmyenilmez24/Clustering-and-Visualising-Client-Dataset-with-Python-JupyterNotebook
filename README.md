@@ -1,4 +1,4 @@
-# Clustering-and-Visualising-with-Python
+# Clustering-and-Visualising-Client-Dataset-with-Python
 Clustering and visualising clients with using dimensionality-reduction techniques in Python
 
 The goal is to interpret groupings to extract meaningful insights
